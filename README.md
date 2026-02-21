@@ -5,6 +5,12 @@ An AI-driven system primarily for documenting processes.
 Our system can be used wherever documentation is required
 or desired. 
 
+It doesn't matter whether a content creator wants to showcase 
+their work, a building owner wants to document the progress of 
+their project, or an artist wants to document the progress of their 
+work - they all need AIDoku if they want to use an efficient and 
+fast documentation system.
+
 Therefore we test models for the tool's usability and 
 the emotional impact of a model.
 
